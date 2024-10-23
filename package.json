@@ -1,5 +1,5 @@
 {
-  "name": "ignite-ui",
+  "name": "anderson-ignite-ui",
   "private": true,
   "workspaces": [
     "packages/*"
@@ -9,7 +9,7 @@
     "build": "turbo run build",
     "changeset": "changeset",
     "version-packages": "changeset version",
-    "release": "turbo run build --filter=!docs && changeset publish"
+    "release": "turbo run build --filter=!@anderson-ignite-ui/docs && changeset publish"
   },
   "devDependencies": {
     "@changesets/cli": "^2.27.9",
