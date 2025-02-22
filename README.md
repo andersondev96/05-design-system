@@ -18,7 +18,6 @@ Neste projeto é criado um Design System utilizando React.js, abordando elemento
 - [⚙ Como executar o projeto](#-como-executar-o-projeto)
 - [🌍 Como utilizar os componentes](#-como-utilizar-os-componentes)
 - [🤝 Como contribuir](#-como-contribuir)
-- [📝 Licença](#-licença)
 - [👥 Autor](#-autor)
 
 ## 💻 Capturas de tela
@@ -126,9 +125,6 @@ Para utilizar os componentes em seu projeto, siga os passos abaixo:
     ```
     git push origin my-feature
     ```
-
-## 📝 Licença
- Este projeto está sobre a licença [MIT](LICENSE).
 
 ## 👥 Autor
 
